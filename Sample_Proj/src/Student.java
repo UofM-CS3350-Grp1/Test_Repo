@@ -16,7 +16,6 @@ public class Student {
 	
 	public int getNum()
 	{
-		
 		return studentNum;
 	}
 }
