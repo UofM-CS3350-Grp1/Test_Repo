@@ -13,4 +13,9 @@ public class Student {
 	{
 		return name;
 	}
+	
+	public int getNum()
+	{
+		return studentNum;
+	}
 }
